@@ -12,6 +12,7 @@ public class Main {
         task2();
         task3();
         task4();
+        task4_2();
     }
 
     //  Задание 1
